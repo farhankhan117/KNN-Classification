@@ -23,7 +23,7 @@ The KNN model achieved perfect accuracy on the Iris test set for all values of K
 
 ## Project Files  
 - Iris.csv — Raw dataset  
-- knn_classification.py — Complete KNN implementation code  
+- KNN_classification.ipynb — Complete KNN implementation code  
 - README.md — This summary file
 
 
